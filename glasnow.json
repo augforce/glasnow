@@ -1,0 +1,32 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2761
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fnil\fcharset0 Menlo-Regular;\f1\fmodern\fcharset0 Courier;}
+{\colortbl;\red255\green255\blue255;\red255\green255\blue254;\red0\green0\blue0;\red144\green1\blue18;
+\red9\green60\blue148;\red19\green118\blue70;\red246\green247\blue250;}
+{\*\expandedcolortbl;;\cssrgb\c100000\c100000\c99608;\cssrgb\c0\c0\c0;\cssrgb\c63922\c8235\c8235;
+\cssrgb\c1569\c31765\c64706;\cssrgb\c3529\c52549\c34510;\cssrgb\c97255\c97647\c98431;}
+\margl1440\margr1440\vieww11520\viewh8400\viewkind0
+\deftab720
+\pard\pardeftab720\partightenfactor0
+
+\f0\fs24 \cf0 \cb2 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec3 \{\cb1 \
+\cb2   \cf4 \strokec4 "Inputs"\cf0 \strokec3 : \{\cb1 \
+\cb2     \cf4 \strokec4 "input1"\cf0 \strokec3 : [\cb1 \
+\cb2       \{\cb1 \
+\cb2         \cf4 \strokec4 "Pitch"\cf0 \strokec3 : \cf5 \strokec5 "4-Seam Fastball"\cf0 \strokec3 ,\cb1 \
+\cb2         \cf4 \strokec4 "L/R"\cf0 \strokec3 : \cf5 \strokec5 "L"\cf0 \strokec3 ,\cb1 \
+\cb2         \cf4 \strokec4 "Balls"\cf0 \strokec3 : \cf6 \strokec6 2\cf0 \strokec3 ,\cb1 \
+\cb2         \cf4 \strokec4 "Strikes"\cf0 \strokec3 : \cf6 \strokec6 0\cf0 \strokec3 ,\cb1 \
+\cb2         \cf4 \strokec4 "Runner on 3B"\cf0 \strokec3 : \cf5 \strokec5 false\cf0 \strokec3 ,\cb1 \
+\cb2         \cf4 \strokec4 "Runner on 2B"\cf0 \strokec3 : \cf5 \strokec5 false\cf0 \strokec3 ,\cb1 \
+\cb2         \cf4 \strokec4 "Runner on 1B"\cf0 \strokec3 : \cf5 \strokec5 false\cf0 \strokec3 ,\cb1 \
+\cb2         \cf4 \strokec4 "Outs"\cf0 \strokec3 : \cf6 \strokec6 2\cf0 \cb1 \strokec3 \
+\cb2       \}\cb1 \
+\cb2     ]\cb1 \
+\cb2   \},\cb1 \
+\cb2   \cf4 \strokec4 "GlobalParameters"\cf0 \strokec3 : \{\}\cb1 \
+\cb2 \}\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1\fs18 \cf0 \cb7 \strokec3 \
+}
